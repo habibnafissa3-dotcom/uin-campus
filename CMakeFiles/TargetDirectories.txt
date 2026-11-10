@@ -1,0 +1,4 @@
+/home/nafi/uin-campus/CMakeFiles/uin-campus.dir
+/home/nafi/uin-campus/CMakeFiles/uin-campus-app.dir
+/home/nafi/uin-campus/CMakeFiles/edit_cache.dir
+/home/nafi/uin-campus/CMakeFiles/rebuild_cache.dir

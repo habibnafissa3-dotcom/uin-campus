@@ -1,0 +1,2 @@
+/usr/bin/ar qc libuin-campus.a "CMakeFiles/uin-campus.dir/src/version.cpp.o" "CMakeFiles/uin-campus.dir/src/regles.cpp.o" "CMakeFiles/uin-campus.dir/src/saisie.cpp.o"
+/usr/bin/ranlib libuin-campus.a
